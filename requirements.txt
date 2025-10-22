@@ -1,11 +1,19 @@
-# The incompatible package is torch==1.7.1. 
-# We'll install a recent, compatible version (e.g., 2.3.1).
-!pip install torch==2.3.1 torchvision torchaudio
+# progress bar utility
+tqdm>=4.67.1
 
-# Install the other specified versions. Kaggle often has newer versions of these
-# already, but explicitly installing them ensures the correct version is used.
-!pip install snorkel==0.9.7
-!pip install scipy==1.7.0
-!pip install transformers==4.8.2
-!pip install tqdm
-!pip install scikit-learn
+# compatible PyTorch version (1.7.1 too old for Python 3.11)
+torch>=2.0.1
+torchvision>=0.15.2
+torchaudio>=2.0.2
+
+# snorkel still works with newer torch/scipy
+snorkel==0.9.7
+
+# compatible SciPy version
+scipy>=1.10.0
+
+# updated Transformers for newer torch
+transformers>=4.30.0
+
+# scikit-learn (let pip choose latest stable)
+scikit-learn
