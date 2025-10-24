@@ -1,19 +1,19 @@
-# progress bar utility
+# Progress bar (usually pre-installed on Kaggle)
 tqdm>=4.67.1
 
-# compatible PyTorch version (1.7.1 too old for Python 3.11)
+# PyTorch stack (check Kaggle's current version first)
 torch>=2.0.1
 torchvision>=0.15.2
 torchaudio>=2.0.2
 
-# snorkel still works with newer torch/scipy
-snorkel==0.9.7
+# Upgrade Snorkel for PyTorch 2.0+ compatibility
+snorkel>=0.10.0
 
-# compatible SciPy version
+# SciPy (compatible with newer PyTorch)
 scipy>=1.10.0
 
-# updated Transformers for newer torch
+# Transformers (good version choice)
 transformers>=4.30.0
 
-# scikit-learn (let pip choose latest stable)
+# scikit-learn (let pip resolve)
 scikit-learn
