@@ -2,7 +2,8 @@ import os
 import sys
 from .data_loader import update_train_loader
 import torch
-from transformers import AdamW, get_linear_schedule_with_warmup
+from torch.optim import AdamW
+from transformers import get_linear_schedule_with_warmup
 from copy import deepcopy
 from collections import defaultdict
 from tallor.rule_kits.rule_labeler import RuleLabeler
