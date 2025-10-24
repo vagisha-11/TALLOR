@@ -39,7 +39,7 @@ class PrecisionRecallF1:
         if len(predictions.size()) != 2:
             raise Exception('inputs should have two dimensions')
         self._used = True
-        predicted = (predictions.ne(self._neg_label).long() * mask).float()
+        predicted = ((predictions != self._neg_label).astype(np.int64) * mask).astype(np.float64)​
         whole_subset = (labels.ne(self._neg_label).long() * mask).float()
         self._recall_local += whole_subset.sum().item()
         if recall is not None:
