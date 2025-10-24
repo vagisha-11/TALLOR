@@ -17,3 +17,7 @@ transformers>=4.30.0
 
 # scikit-learn (let pip resolve)
 scikit-learn
+
+pyarrow==21.0.0​
+
+pydantic==2.11.10
