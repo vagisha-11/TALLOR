@@ -1,23 +1,23 @@
 # Progress bar (usually pre-installed on Kaggle)
 tqdm>=4.67.1
 
-# PyTorch stack (check Kaggle's current version first)
+# PyTorch stack (Kaggle already ships 2.6.0+cu124 at time of writing)
 torch>=2.0.1
 torchvision>=0.15.2
 torchaudio>=2.0.2
 
-# Upgrade Snorkel for PyTorch 2.0+ compatibility
+# Snorkel compatible with PyTorch 2.x
 snorkel>=0.10.0
 
-# SciPy (compatible with newer PyTorch)
+# SciPy compatible with newer PyTorch
 scipy>=1.10.0
 
-# Transformers (good version choice)
+# Transformers (compatible with modern tokenizers/torch)
 transformers>=4.30.0
 
-# scikit-learn (let pip resolve)
+# Let pip choose latest stable
 scikit-learn
 
-pyarrow==21.0.0​
-
-pydantic==2.11.10
+# Pins to avoid Kaggle base image conflicts
+pyarrow==22.0.0   # Newer required by datasets; ignore RAPIDS pyarrow<20 warnings if not using RAPIDS[web:82][web:84]
+pydantic==2.11.10 # Gradio compatibility prefers <2.12 to avoid known breakages[web:93][web:99]
