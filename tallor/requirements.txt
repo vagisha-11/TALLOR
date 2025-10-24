@@ -1,0 +1,11 @@
+# The incompatible package is torch==1.7.1. 
+# We'll install a recent, compatible version (e.g., 2.3.1).
+!pip install torch==2.3.1 torchvision torchaudio
+
+# Install the other specified versions. Kaggle often has newer versions of these
+# already, but explicitly installing them ensures the correct version is used.
+!pip install snorkel==0.9.7
+!pip install scipy==1.7.0
+!pip install transformers==4.8.2
+!pip install tqdm
+!pip install scikit-learn
