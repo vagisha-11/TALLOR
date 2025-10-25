@@ -10,7 +10,6 @@ def to_tensor_long(x: ArrayLike) -> torch.Tensor:
         return x.to(dtype=torch.long, device='cpu')
     if isinstance(x, np.ndarray):
         return torch.from_numpy(x).to(dtype=torch.long, device='cpu')
-    # assume list-like
     return torch.as_tensor(x, dtype=torch.long, device='cpu')
 
 def to_tensor_float(x: ArrayLike) -> torch.Tensor:
@@ -20,17 +19,18 @@ def to_tensor_float(x: ArrayLike) -> torch.Tensor:
         return torch.from_numpy(x).to(dtype=torch.float32, device='cpu')
     return torch.as_tensor(x, dtype=torch.float32, device='cpu')
 
+
 class PrecisionRecallF1:
     """
     compute precision recall and f1
     """
     def __init__(self, neg_label: int, reduce: str = 'micro', binary_match: bool = False) -> None:
-        self._neg_label = neg_label  # negative/ignore label id [web:221][web:224]
+        self._neg_label = neg_label
         assert reduce in {'micro', 'macro'}
         if reduce == 'macro':
             raise Exception("precision, recall, and F1 don't have macro version?")
         self._reduce = reduce
-        self._binary_match = binary_match
+        self._binary_match = binary_match  # only consider the existence
         self._count = 0.0
         self._precision = 0.0
         self._recall = 0.0
@@ -51,18 +51,18 @@ class PrecisionRecallF1:
         mask: ArrayLike,         # (batch_size, seq_len)
         recall: ArrayLike = None,
         duplicate_check: bool = True,
-        bucket_value: ArrayLike = None,
+        bucket_value: ArrayLike = None,  # (batch_size, seq_len)
     ):
-        # Normalize inputs to CPU tensors with correct dtypes [web:221][web:224]
-        preds_t = to_tensor_long(predictions)     # int64 [web:221]
-        labels_t = to_tensor_long(labels)         # int64 [web:221]
-        mask_t = to_tensor_long(mask)             # int64 for masking arithmetic [web:221]
+        # Normalize inputs (supports list/np/tensor)
+        preds_t = to_tensor_long(predictions)
+        labels_t = to_tensor_long(labels)
+        mask_t = to_tensor_long(mask)
 
         if preds_t.dim() != 2:
             raise Exception('inputs should have two dimensions')
         self._used = True
 
-        # Build predicted/true masks as float for accumulation [web:221]
+        # Build predicted/true masks as float for accumulation
         predicted = (preds_t.ne(self._neg_label).long() * mask_t).float()
         whole_subset = (labels_t.ne(self._neg_label).long() * mask_t).float()
         self._recall_local += float(whole_subset.sum().item())
@@ -86,9 +86,8 @@ class PrecisionRecallF1:
             self._num_sample += preds_t.size(0)
 
             if bucket_value is not None:
-                bucket_t = to_tensor_long(bucket_value) * mask_t
-                # Move to NumPy for bincount; ensure int indices and float weights [web:221]
-                bucket_np = bucket_t.cpu().numpy().reshape(-1).astype(np.int64)
+                # Prepare arrays for np.bincount (int indices, float weights)
+                bucket_np = (to_tensor_long(bucket_value) * mask_t).cpu().numpy().reshape(-1).astype(np.int64)
                 matched_np = matched.cpu().numpy().reshape(-1)
                 predicted_np = predicted.cpu().numpy().reshape(-1)
                 whole_subset_np = whole_subset.cpu().numpy().reshape(-1)
@@ -103,13 +102,13 @@ class PrecisionRecallF1:
                     self._bucket['precision'][b] += float(v)
                 for b, v in enumerate(recall_arr):
                     self._bucket['recall'][b] += float(v)
+
         else:
-            # kept for completeness though constructor prevents 'macro'
-            total = float(matched.numel())
+            # Kept for completeness though 'macro' is disallowed by constructor
+            self._count += float(matched.numel())
             pre = matched / (predicted + 1e-10)
             rec = matched / (whole_t + 1e-10)
             f1 = 2 * pre * rec / (pre + rec + 1e-10)
-            self._count += total
             self._precision += float(pre.sum().item())
             self._recall += float(rec.sum().item())
             self._f1 += float(f1.sum().item())
@@ -156,6 +155,9 @@ class PrecisionRecallF1:
         self._num_sample = 0
         self._used = False
 
+    def detach_tensors(self, *tensors):
+        return (x.detach() if isinstance(x, torch.Tensor) else x for x in tensors)
+
 
 class DataPrecisionRecallF1:
     """
@@ -176,17 +178,17 @@ class DataPrecisionRecallF1:
         labels: ArrayLike,       # (seq_len)
         mask: ArrayLike,         # (seq_len)
     ):
-        # Normalize to CPU tensors first [web:221][web:224]
+        # Normalize to CPU tensors first
         preds_t = to_tensor_long(predictions)
         labels_t = to_tensor_long(labels)
-        mask_t = to_tensor_float(mask)  # float mask for weighting
+        mask_f = to_tensor_float(mask)
 
         self._used = True
-        predicted = ((preds_t != self._neg_label).long().float() * mask_t).double()
+        predicted = ((preds_t != self._neg_label).long().float() * mask_f).double()
         whole_subset = (labels_t != self._neg_label).long().double()
         self._recall_local += float(whole_subset.sum().item())
 
-        matched = ((preds_t == labels_t).long() * (preds_t != self._neg_label).long()).float() * mask_t
+        matched = ((preds_t == labels_t).long() * (preds_t != self._neg_label).long()).float() * mask_f
         matched = matched.double()
 
         self._count += float(matched.sum().item())
