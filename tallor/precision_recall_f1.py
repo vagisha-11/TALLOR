@@ -160,13 +160,13 @@ class DataPrecisionRecallF1:
         mask = np.array(mask).astype(np.float64)
 
         self._used = True
-        predicted = ((predictions!=self._neg_label).astype(np.long) * mask).astype(np.float64)
-        whole_subset = ((labels!=self._neg_label).astype(np.long)).astype(np.float64)
+        predicted = ((predictions!=self._neg_label).astype(int) * mask).astype(np.float64)
+        whole_subset = ((labels!=self._neg_label).astype(int)).astype(np.float64)
         self._recall_local += whole_subset.sum()
         
         whole = whole_subset
 
-        matched = ((predictions==labels).astype(np.long) * mask * (predictions!=self._neg_label).astype(np.long)).astype(np.float64)
+        matched = ((predictions==labels).astype(int) * mask * (predictions!=self._neg_label).astype(int)).astype(np.float64)
 
         self._count += matched.sum()
         self._precision += predicted.sum()
