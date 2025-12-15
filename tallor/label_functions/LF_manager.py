@@ -2,6 +2,7 @@ from .conll2003 import *
 from .bc5cdr import *
 from .chemdner import *
 from .serving_template import *
+from .span import *
 class LFManager:
 
     def __init__(self, ner_label, dataset, rule_types='composed', mode='training'):
@@ -43,7 +44,15 @@ class LFManager:
 
                 self.pre_match_templates += self.rule_templates
                 self.pre_match_templates += [CHEMDNER_CapitalRule(), CHEMDNER_PosTagRule()]
+        
+            elif dataset == 'span':
 
+                if rule_types=='composed':
+                    self.rule_templates.append(SPAN_SurfaceForm(ner_label))
+                    self.rule_templates.append(SPAN_ComposedRule(ner_label))
+
+                self.pre_match_templates += self.rule_templates
+                self.pre_match_templates += [SPAN_CapitalRule(), SPAN_PosTagRule()]
             else:
                 print(f'Please complete rule template for dataset {dataset}.')
                 raise NotImplementedError

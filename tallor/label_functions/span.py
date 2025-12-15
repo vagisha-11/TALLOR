@@ -1,23 +1,16 @@
 from tallor.label_functions.LF_template import *
-
 from tallor.rule_kits.rule_reader import surface_reader
 
-class TALLOR_SurfaceForm(SurfaceForm):
+class SPAN_SurfaceForm(SurfaceForm):
     def __init__(self, ner_label):
 
-        # Use the span dictionary for serving template as well to align with the dataset
-        dictionary = surface_reader('span', number=100)
+        dictionary = surface_reader('span', number=100) # Increased number to capture all terms
         negative_set = set()
-
-        ## Update labels from rules:
-        ner_label.get_id('') ## negative
-        for label in dictionary.values():
-            ner_label.get_id(label)
         
         super().__init__(ner_label, dictionary, negative_set)
 
 
-class TALLOR_Prefix(Prefix):
+class SPAN_Prefix(Prefix):
     def __init__(self, ner_label):
 
         prefix_dict = dict()
@@ -27,7 +20,7 @@ class TALLOR_Prefix(Prefix):
         super().__init__(ner_label, prefix_dict, neg_prefix_set)
 
         
-class TALLOR_Suffix(Suffix):
+class SPAN_Suffix(Suffix):
     def __init__(self, ner_label):
 
         suffix_dict = dict()
@@ -36,7 +29,7 @@ class TALLOR_Suffix(Suffix):
 
         super().__init__(ner_label, suffix_dict, neg_suffix_set)
 
-class TALLOR_InclusivePreNgram(InclusivePreNgram):
+class SPAN_InclusivePreNgram(InclusivePreNgram):
 
     def __init__(self, ner_label):
 
@@ -47,7 +40,7 @@ class TALLOR_InclusivePreNgram(InclusivePreNgram):
         super().__init__(ner_label, inclusive_pre_dict, neg_inclusive_pre_set)
 
 
-class TALLOR_InclusivePostNgram(InclusivePostNgram):
+class SPAN_InclusivePostNgram(InclusivePostNgram):
 
     def __init__(self, ner_label):
 
@@ -56,7 +49,7 @@ class TALLOR_InclusivePostNgram(InclusivePostNgram):
         super().__init__(ner_label, inclusive_post_dict, neg_inclusive_post_set)
 
 
-class TALLOR_ExclusivePreNgram(ExclusivePreNgram):
+class SPAN_ExclusivePreNgram(ExclusivePreNgram):
 
     def __init__(self, ner_label):
 
@@ -67,7 +60,7 @@ class TALLOR_ExclusivePreNgram(ExclusivePreNgram):
         super().__init__(ner_label, exclusive_pre_dict, neg_exclusive_pre_set)
 
 
-class TALLOR_ExclusivePostNgram(ExclusivePostNgram):
+class SPAN_ExclusivePostNgram(ExclusivePostNgram):
 
     def __init__(self, ner_label):
 
@@ -77,22 +70,22 @@ class TALLOR_ExclusivePostNgram(ExclusivePostNgram):
 
         super().__init__(ner_label, exclusive_post_dict, neg_exclusive_post_set)
 
-class TALLOR_PosTagRule(PosTagRule):
+class SPAN_PosTagRule(PosTagRule):
 
     def __init__(self):
 
-        POS_set = {'NUM':'Entity'}
+        POS_set = {}
         neg_POS_set = {}
         super().__init__(POS_set, neg_POS_set)
 
-class TALLOR_CapitalRule(CapitalRule):
+class SPAN_CapitalRule(CapitalRule):
 
     def __init__(self):
 
         Capitalized = {'capitalized', 'upper'}
         super().__init__(Capitalized)
         
-class TALLOR_DependencyRule(DependencyRule):
+class SPAN_DependencyRule(DependencyRule):
 
     def __init__(self):
 
@@ -100,15 +93,15 @@ class TALLOR_DependencyRule(DependencyRule):
         neg_Dep_set = set()
         super().__init__(Dep_dict, neg_Dep_set)
 
-class TALLOR_ComposedRule(ComposedRule):
+class SPAN_ComposedRule(ComposedRule):
 
     def __init__(self, ner_label):
 
-        ExPre = TALLOR_ExclusivePreNgram(ner_label)
-        ExPost = TALLOR_ExclusivePostNgram(ner_label)
-        POStag = TALLOR_PosTagRule()
-        DepRule = TALLOR_DependencyRule()
+        ExPre = SPAN_ExclusivePreNgram(ner_label)
+        ExPost = SPAN_ExclusivePostNgram(ner_label)
+        POStag = SPAN_PosTagRule()
+        DepRule = SPAN_DependencyRule()
+        
         composed_rule = [(ExPre, ExPost), (ExPre, POStag), (POStag, ExPost), (DepRule, POStag)]
 
-        # 1. [(ExPre, ExPost), (ExPre, POStag), (POStag, ExPost), (DepRule, POStag)]
         super().__init__(ner_label, composed_rule)

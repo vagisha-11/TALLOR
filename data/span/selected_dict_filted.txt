@@ -1,0 +1,94 @@
+Claim	should
+Claim	must
+Claim	can
+Claim	could
+Claim	would
+Claim	might
+Claim	may
+Claim	shall
+Claim	need to
+Claim	have to
+Claim	ought to
+Claim	important
+Claim	essential
+Claim	better
+Claim	harmful
+Claim	necessary
+Claim	significant
+Claim	critical
+Claim	vital
+Claim	useful
+Claim	beneficial
+Claim	preferable
+Claim	desirable
+Claim	ideal
+Claim	appropriate
+Claim	valuable
+Claim	meaningful
+Claim	i believe
+Claim	in my opinion
+Claim	it is clear that
+Claim	i think
+Claim	i feel
+Claim	it seems
+Claim	i consider
+Claim	i suppose
+Claim	from my perspective
+Claim	as far as i’m concerned
+Claim	i assert
+Claim	one might say
+Claim	thus
+Claim	therefore
+Claim	it is evident that
+Claim	it seems that
+Claim	it is necessary
+Claim	one should
+Claim	everyone should
+Claim	we must
+Claim	it would be better
+Claim	threatened
+Claim	enhanced
+Claim	destroyed
+Claim	damaged
+Claim	weakened
+Claim	improved
+Claim	protected
+Premise	because
+Premise	since
+Premise	as
+Premise	in order to
+Premise	so that
+Premise	this shows
+Premise	this proves
+Premise	hence
+Premise	so
+Premise	consequently
+Premise	accordingly
+Premise	due to
+Premise	for this reason
+Premise	as a result
+Premise	although
+Premise	even though
+Premise	percent
+Premise	data
+Premise	study
+Premise	research
+Premise	numbers
+Premise	estimate
+Premise	statistics
+Premise	report
+Premise	survey
+Premise	evidence
+Premise	for example
+Premise	such as
+Premise	this shows that
+Premise	to illustrate
+Premise	one example is
+Premise	an instance is
+Premise	for instance
+Premise	helps
+Premise	leads to
+Premise	results in
+Premise	impact
+Premise	trigger
+Premise	influences

@@ -1,0 +1,1715 @@
+0.9675304158	space exploration
+0.9615543851	carbon dioxide
+0.9608148011	shopping center
+0.9604357649	traffic congestion
+0.9600973085	capital punishment
+0.9591899648	mass media
+0.9576855217	outer space
+0.9568471352	standardized tests
+0.9564458512	voice mail
+0.9541551002	fixed punishment
+0.9533074392	fashion trends
+0.9528480778	universal language
+0.9522817807	fossil fuels
+0.9509040032	global warming
+0.9484754100	mobile phone
+0.9468225682	mobile phones
+0.9457101591	wealthy nations
+0.9455150015	traffic jam
+0.9452040905	small towns
+0.9443332373	sporting occasions
+0.9416970673	death penalty
+0.9411473810	air pollution
+0.9394621273	nuclear power
+0.9386376860	renewable resources
+0.9367833506	historic buildings
+0.9352839561	planet earth
+0.9352295950	cctv cameras
+0.9347649585	gun control
+0.9331969933	heated debate
+0.9321426451	distance learning
+0.9321143485	cultural identity
+0.9321038485	patriotic emotions
+0.9293457008	money management
+0.9285216775	developing countries
+0.9265228270	richer nations
+0.9252757081	poorer nations
+0.9249068897	endangered animals
+0.9231480747	outdoor activities
+0.9189232355	alternative sources
+0.9181021916	cheap air
+0.9178597425	highly recommended
+0.9177895608	news media
+0.9148733721	eating habits
+0.9147663373	slower pace
+0.9136136472	economic growth
+0.9117107021	higher education
+0.9112321394	firmly convinced
+0.9105108375	police force
+0.9103566320	high tech
+0.9100966552	international sporting
+0.9096444243	traditional techniques
+0.9093283696	debated issue
+0.9089027059	big cities
+0.9086885008	economic development
+0.9075853165	wild animals
+0.9070424824	economic developments
+0.9061253868	urban areas
+0.9056995822	watching television
+0.9056030668	alternative forms
+0.9049943278	visit museums
+0.9049795924	life expectancy
+0.9036906496	poorer countries
+0.9013614150	human beings
+0.9011320734	natural resources
+0.8998871320	natural habitats
+0.8975670821	foreign country
+0.8951552068	studying hard
+0.8948541931	foreign language
+0.8928691014	small town
+0.8920819568	young adults
+0.8916955958	environmental protection
+0.8914484537	unemployment rate
+0.8900643699	private cars
+0.8897406113	family members
+0.8891956134	natural environment
+0.8891277811	social skills
+0.8888964946	crime rate
+0.8883995739	developed countries
+0.8862561171	watching tv
+0.8824432577	prepared food
+0.8818720551	local residents
+0.8791835396	environmental problems
+0.8785272805	public services
+0.8781649436	adverse effects
+0.8774245216	physical activities
+0.8771469508	professional athletes
+0.8770713615	learning process
+0.8757795345	paying taxes
+0.8755270655	medical care
+0.8753630615	modern games
+0.8749625091	physical activity
+0.8729600802	health care
+0.8718545280	high school
+0.8717309894	public transportation
+0.8713336250	tv programs
+0.8699110881	poor countries
+0.8665509181	strongly agree
+0.8648277422	negative effects
+0.8638803690	academic subjects
+0.8611546818	years ago
+0.8606620580	high salary
+0.8605133380	positive effects
+0.8597453042	traditional games
+0.8581910594	negative impacts
+0.8581273343	high quality
+0.8555611049	replace classroom
+0.8532870627	people's lives
+0.8524648504	preventative measures
+0.8522836548	adult life
+0.8480160798	mental health
+0.8479352198	excellent knowledge
+0.8456848955	watch tv
+0.8425177766	negative effect
+0.8424957408	international tourism
+0.8395648557	today's society
+0.8391954418	hand phones
+0.8382844128	young age
+0.8381322621	important factor
+0.8360876082	modern technology
+0.8329850871	daily lives
+0.8325759318	human activity
+0.8298638774	sports events
+0.8292098928	people's health
+0.8279579274	online games
+0.8276687495	completely agree
+0.8261786358	high schools
+0.8247196070	team members
+0.8212453795	modern communication
+0.8175859370	earn money
+0.8172323355	attending classes
+0.8172297782	achieve success
+0.8171776561	today's world
+0.8169013982	home country
+0.8168040973	private individuals
+0.8164606769	physical education
+0.8151806676	long term
+0.8115472584	cooking food
+0.8106342019	cultural values
+0.8097744414	attend class
+0.8097317839	tv shows
+0.8096067178	modern artists
+0.8087144799	early ages
+0.8077867243	television programs
+0.8070811311	earning money
+0.8044051047	important aspect
+0.8021295464	traditional cultures
+0.8007871368	extra jobs
+0.7988416172	sport events
+0.7973583648	online class
+0.7948549015	social activities
+0.7908274385	play games
+0.7906599520	online classes
+0.7852768835	modern society
+0.7777800452	college education
+0.7769220036	email and text messaging
+0.7755132842	personal experience
+0.7734431136	job opportunities
+0.7732632946	sports activities
+0.7657745641	pay attention
+0.7657537093	close friends
+0.7622932117	classroom learning
+0.7608430472	recent years
+0.7578825808	boys and girls
+0.7572989623	playing sports
+0.7565769563	big city
+0.7523161543	university studies
+0.7503357765	telephones and email
+0.7438138204	roads and highways
+0.7437868423	museums and art galleries
+0.7398114782	saving money
+0.7394335831	advanced technology
+0.7371034629	air travel
+0.7370138900	professional skills
+0.7257315677	hard working
+0.7255925291	gain knowledge
+0.7245959954	pros and cons
+0.7239249636	males and females
+0.7228611688	social problems
+0.7179301147	human's life
+0.7122192491	modern world
+0.7111735608	education and preventative measures
+0.7097996454	newspapers and magazines
+0.7043478692	children's future
+0.7010679471	equally important
+0.6972937386	higher level
+0.6936304827	future job
+0.6927924208	financial support
+0.6705569442	real life
+0.6691356667	spending money
+0.6633731364	learning facts
+0.6583976173	number of patients
+0.6530036804	freedom to express
+0.6520095305	younger generation
+0.6519664022	early age
+0.6488581657	smoking in restaurants
+0.6415501149	public places
+0.6335012674	ministry of health
+0.6211029649	housing and industry
+0.6129675761	allotted to education and prevention issues
+0.6015225078	living in small towns
+0.5976493311	co operative approach
+0.5960759988	female students
+0.5907241956	international sports
+0.5900372415	rapid development
+0.5867794312	negative impact
+0.5831022183	television and movies
+0.5766401904	music and art
+0.5763401904	art and music
+0.5725383362	ability to plan and organize
+0.5704670883	pay more attention
+0.5643259991	attend classes
+0.5585772794	sports and social activities
+0.5585113808	the 21st century
+0.5554822230	children's education
+0.5553727221	level of violence
+0.5533196322	listening to music
+0.5479375443	face to face
+0.5462762483	young generation
+0.5448592129	positive or negative
+0.5367997233	long run
+0.5365208622	greater proportion of
+0.5340737540	face to face communication
+0.5301575576	everyday life
+0.5276183399	science and technology
+0.5210366537	working at home
+0.5188756343	college and university
+0.5171453031	point of view
+0.5137558782	earn more money
+0.5119673010	advantages and disadvantages
+0.5114587191	points of view
+0.5105949326	family and friends
+0.5058687248	a single international language
+0.4987342290	knowledge and skills
+0.4983430510	life easier
+0.4955680725	people's life
+0.4841222029	place to live
+0.4832595630	health care and education
+0.4831930463	communication among friends and family
+0.4818314785	co worker
+0.4813318645	completely disagree with
+0.4794560950	e mail
+0.4785726691	human life
+0.4734544893	hand in hand
+0.4728122696	co operation
+0.4704162189	money on improving
+0.4688950088	skills and ways
+0.4671211911	strongly disagree with
+0.4618012015	living with parents
+0.4609827711	old buildings
+0.4594193134	a small town
+0.4585005504	co operative
+0.4583803965	daily life
+0.4580394753	living environment
+0.4572333304	health education
+0.4536308473	traditional skills and ways of life
+0.4534666443	both genders
+0.4457751140	technology makes
+0.4415446859	gap between
+0.4397941791	important thing
+0.4364930586	reasons to support
+0.4312301071	teach students
+0.4300899751	negative impact on
+0.4299762865	few minutes
+0.4253072366	future life
+0.4182225075	an early age
+0.4157780875	academic knowledge
+0.4146629410	destroyed communication
+0.4144551347	large company
+0.4144416868	co workers
+0.4093139010	quality of life
+0.4088273075	20 years
+0.4086572302	personal lives of famous people
+0.4060454223	worry about
+0.4055712311	university education
+0.4045672259	mentioned above
+0.3994781863	question whether
+0.3993918814	educational system
+0.3971295547	spend money on
+0.3968857499	basic needs
+0.3945218290	prefer to spend
+0.3896189107	firmly believe
+0.3861548163	computer games
+0.3806515372	increasing number of
+0.3799740204	into account
+0.3771347635	serious movies
+0.3761917937	health system
+0.3743517422	take risks
+0.3735279309	traditional skills and ways
+0.3728167124	real world
+0.3726527448	regarded as
+0.3693475699	reading about things or
+0.3689973091	dealing with
+0.3680813896	negative effects on
+0.3674458779	friends and family
+0.3651466472	spare time
+0.3650596128	university students
+0.3645367990	a large company
+0.3602061931	depending on
+0.3573525962	access to information
+0.3567859295	above mentioned
+0.3540862732	modern life
+0.3539540600	no doubt
+0.3522076710	great deal of
+0.3514722718	both sides
+0.3490182742	same task
+0.3447578165	cope with
+0.3441677954	widely used
+0.3435566521	efficient way
+0.3428775702	depends on
+0.3421685767	strongly believe
+0.3408568840	no longer
+0.3399709151	learning by doing things
+0.3395449729	time consuming
+0.3347571722	rapid development of
+0.3346373716	a big city
+0.3307992609	reasons mentioned
+0.3307127664	using machines
+0.3305838139	leisure time
+0.3266519853	no matter
+0.3236321497	to attend classes
+0.3232764463	two main
+0.3228583429	traditional skills
+0.3217772771	relating well to
+0.3205168396	negative effects on children
+0.3144122481	preservation of old
+0.3120162387	the main reason
+0.3118562112	acquisition of
+0.3086430103	an apartment
+0.3081207395	or two close friends
+0.3072558903	try new things
+0.3038960598	listening to people talking about
+0.3003920687	hard work
+0.2996654420	proud of
+0.2988590823	important role
+0.2972826483	a large number of friends
+0.2933909370	interact with
+0.2925223015	participating in
+0.2922694834	much easier
+0.2922346456	prefer to live
+0.2916096225	beginning of
+0.2892542405	solve problems
+0.2891736056	a person's life
+0.2889391792	this essay
+0.2883232014	caused by
+0.2877908488	students to study
+0.2861535649	another perspective
+0.2861403483	personal life
+0.2841075635	the deadline
+0.2833432660	following reasons
+0.2831334103	suffer from
+0.2829736548	to solve problems
+0.2783209938	needs for farmland
+0.2762530708	unable to
+0.2740566976	different opinions
+0.2737464000	new challenges
+0.2732005599	students learn
+0.2727512585	human being
+0.2711984109	another reason
+0.2695483818	millions of
+0.2684641841	rely on
+0.2666620389	require students
+0.2657407683	depend on
+0.2653772683	part time jobs
+0.2646903321	communication between
+0.2639500422	right away
+0.2638405329	the death penalty
+0.2631278355	to plan and organize
+0.2627217181	studying alone
+0.2622776644	young children
+0.2613677368	the long run
+0.2599057352	some extent
+0.2594720420	new high school
+0.2586544265	life skills
+0.2584211613	an important role
+0.2575327717	concentrate on
+0.2563977881	these days
+0.2553352817	spend less time
+0.2552257880	even though
+0.2547929161	doing research
+0.2541092589	based on
+0.2527818556	focusing on
+0.2521123438	negative way
+0.2509768206	the younger generation
+0.2481288614	familiar with
+0.2478647252	part time job
+0.2467894008	different cultures
+0.2458037346	well known
+0.2453039548	the real world
+0.2438697260	free time
+0.2436807280	in summary
+0.2433899023	do anything
+0.2426659528	go back
+0.2421433920	step by
+0.2389934662	education system
+0.2388802971	in big cities
+0.2385536610	introduction of
+0.2385157051	thinking about
+0.2379076870	time management
+0.2370273401	types of
+0.2353168804	than ever before
+0.2345147691	at least
+0.2332711990	a heated
+0.2321867546	brought about
+0.2318222220	a nutshell
+0.2296267222	communicate with
+0.2286745611	other species
+0.2283736885	different situations
+0.2277891613	at home
+0.2266808785	spend money
+0.2247444966	more urgent
+0.2239782440	own business
+0.2239223364	in one place
+0.2234119332	whole life
+0.2218364135	the planet earth
+0.2198639041	period of time
+0.2192173110	plenty of
+0.2191484874	too much
+0.2156110155	the introduction
+0.2155628207	apart from
+0.2116116729	good or bad
+0.2108482176	prefer to live in
+0.2102836560	dependent on
+0.2098567457	does not mean
+0.2090269546	proportion of
+0.2087598700	variety of
+0.2086502989	several reasons
+0.2084205709	effects on children
+0.2070495540	every day
+0.2065947350	ways of life
+0.2054915872	various reasons
+0.2054497570	to visit museums
+0.2051469632	the beginning
+0.2047360720	for instance
+0.2045813233	using computer
+0.2026874456	first and foremost
+0.2019451675	and so forth
+0.2014583950	children to learn
+0.2005509326	this statement
+0.2005356848	by contrast
+0.2005000080	kinds of
+0.2002648893	lots of
+0.2002369584	school students
+0.1997499456	in other words
+0.1992510960	by way of conclusion
+0.1990645657	effect on
+0.1989148645	day by day
+0.1985407382	a lot
+0.1985241530	work or study
+0.1981741729	time and money
+0.1964832439	on one hand
+0.1960457439	the one hand
+0.1955269546	majority of
+0.1952648893	tend to
+0.1951424500	very difficult
+0.1946296347	very common
+0.1943585560	a matter of fact
+0.1943444088	satisfied with
+0.1919312225	in recent years
+0.1917419820	some cases
+0.1910614926	a dormitory
+0.1907779679	the other hand
+0.1904032519	important role in
+0.1901178171	focus on
+0.1889439217	pay attention to
+0.1887607839	the gap
+0.1885023991	pursuit of
+0.1860000177	the young generation
+0.1859099832	young people
+0.1850080045	waste of time
+0.1846397405	lot of
+0.1839384760	contact with
+0.1837340251	an e mail
+0.1823331230	resulting in
+0.1813875029	rather than
+0.1809561791	a good idea
+0.1803625157	taking part in
+0.1803169920	really want
+0.1799401200	the reasons mentioned above
+0.1793177213	controlled by
+0.1792767628	essential part
+0.1792246579	in addition
+0.1791804786	agree with
+0.1785933922	one subject
+0.1778531255	to health education and
+0.1769710259	provided by
+0.1768611380	every country
+0.1762838117	disagree with
+0.1758100235	amount of money
+0.1753155194	improvements in
+0.1749694797	for teachers to
+0.1749064950	an individual
+0.1747983806	influenced by
+0.1746046991	the help of
+0.1742576668	influences on
+0.1738799402	in conclusion
+0.1735434877	the first place
+0.1734491738	doing something
+0.1722593340	prefer to work for
+0.1721698360	number of
+0.1715784215	equipped with
+0.1712163897	spend more time
+0.1704757699	access to
+0.1692886340	this notion
+0.1691849189	for children to
+0.1688553930	spend time with
+0.1684863947	invest more
+0.1682060831	public services and
+0.1675626603	symbols of
+0.1669411525	spending time
+0.1663095630	the air pollution
+0.1654655630	last but not least
+0.1651367240	the most important
+0.1643869480	lies in
+0.1642666004	range of
+0.1638841073	the first reason
+0.1638558502	looking at
+0.1637500205	spend more time on
+0.1633407425	spent on
+0.1633146228	the happiest
+0.1631311045	in today's world
+0.1629592210	communication among friends and
+0.1625729057	of people in
+0.1623570560	thousands of
+0.1617623028	this phenomenon
+0.1609571924	the majority
+0.1609243015	the whole society
+0.1604348019	impact on
+0.1603639211	foreign language in
+0.1597823033	a wide range of
+0.1595761328	what's more
+0.1591751910	large number of
+0.1579694427	the benefits of
+0.1578526930	kind of
+0.1572342264	as soon as possible
+0.1569952391	another country
+0.1566299127	not to mention
+0.1561622528	a mobile phone
+0.1553816096	facts about
+0.1551986875	at school
+0.1546242889	regardless of
+0.1545463658	so as to
+0.1542524741	aware of
+0.1539278859	art work
+0.1537189971	in terms of
+0.1533521690	the advent of
+0.1532609697	each other
+0.1532558565	going to classes
+0.1527656535	this case
+0.1526115634	some negative effects
+0.1518065539	help people to
+0.1517793652	to entertain
+0.1517189971	to begin with
+0.1508939971	in spite of
+0.1508110717	for people to
+0.1507952818	to socialize
+0.1501630304	the world's
+0.1500754646	the smoker
+0.1496035431	more chances
+0.1489511399	as long as
+0.1481917456	numbers of
+0.1478939971	the drawbacks of
+0.1475613976	easier and more
+0.1473374490	a foreign language
+0.1469093028	did not
+0.1464721722	a large number of
+0.1455840204	the most significant
+0.1454431438	well to people
+0.1452323606	learn about
+0.1447516494	to illustrate
+0.1445992631	parts of
+0.1445986119	most likely
+0.1440387974	some people claim
+0.1437465764	suffering from
+0.1436778384	an essential part
+0.1434655630	as far as
+0.1430995928	a result
+0.1414277314	affected by
+0.1399362085	to nurture
+0.1392514344	more importantly
+0.1390773994	the biggest
+0.1390036955	go through
+0.1389083092	make new friends
+0.1387477789	for students to
+0.1387148609	to sum
+0.1384663147	in public places
+0.1364571043	due to
+0.1361619893	the car use
+0.1360060433	this issue
+0.1353371060	for example
+0.1348508543	able to
+0.1343712866	awareness of
+0.1335504637	along with
+0.1334300540	give reasons to
+0.1333578922	look at
+0.1332496300	in order to
+0.1330301605	from other sources
+0.1326342121	team work
+0.1325442091	while others
+0.1320900523	in twenty
+0.1320216725	some drawbacks
+0.1318823327	listen to
+0.1293352260	away from
+0.1293277651	the latter
+0.1292205353	but not least
+0.1291976871	traditional skills and
+0.1286177803	other side
+0.1283501933	a huge amount of
+0.1271214101	stand on
+0.1248634933	the traditional skills
+0.1247324831	does not
+0.1242610713	information about
+0.1240188165	more benefits than
+0.1238607109	a lot of money
+0.1237651516	to conclude
+0.1228864313	a new language
+0.1221452011	such as
+0.1221216286	short time
+0.1216373029	in comparison with
+0.1210523832	own cars
+0.1208495561	the whole world
+0.1207786497	an opportunity
+0.1204497206	as much as
+0.1204312295	a significant role in
+0.1201655896	each others
+0.1201322157	a professor
+0.1200682874	some people argue
+0.1192648584	part of
+0.1180625660	according to
+0.1177477652	as well as
+0.1175433372	in contrast
+0.1166850943	of news media
+0.1162833990	more and more
+0.1160861665	a great number of
+0.1157757177	the greatest
+0.1150058744	more interested
+0.1147381084	suitable for
+0.1142275635	source of
+0.1130691264	a great deal of
+0.1127804532	the world
+0.1127334880	with regard to
+0.1123982093	large amount of
+0.1119001070	front of
+0.1112801951	lack of
+0.1104949959	a controversial
+0.1099352767	usage of
+0.1097060498	talking about
+0.1089001951	responsible for
+0.1088904701	do not
+0.1088321938	care about
+0.1086754459	done by
+0.1076198768	more efficiently
+0.1065462621	easier for people
+0.1063940814	good relationship with
+0.1055213068	compared with
+0.1053044205	more important than
+0.1052528600	the former
+0.1041541341	deal with
+0.1024232620	a long time
+0.1023472974	to spend money
+0.1018992253	others argue
+0.1017600021	lead to
+0.1011581570	living in
+0.1005425407	more complicated
+0.1000956209	an example
+0.0994140967	a lot of
+0.0987163777	considered as
+0.0984457764	something new
+0.0983544875	created by
+0.0980221004	take care of
+0.0967189552	new forms of
+0.0958934656	in modern society
+0.0956274889	thanks to
+0.0949879369	the best way
+0.0945365900	the young adults
+0.0943878063	benefit from
+0.0934933631	human needs
+0.0933742103	another example
+0.0925804102	the development of technology
+0.0915648805	these languages
+0.0907660435	prefer to
+0.0902973965	not only
+0.0901020130	communicating with
+0.0896976827	capable of
+0.0896063059	amount of
+0.0887912503	communication among
+0.0876031851	a person's
+0.0873138674	type of
+0.0867435580	live in
+0.0861845052	the preservation of
+0.0856166318	a break
+0.0854327102	role in
+0.0850647317	looking from
+0.0847091606	the importance of
+0.0846656742	know more about
+0.0846327806	involved in
+0.0845073039	influence on
+0.0840381485	a person
+0.0836540582	but also
+0.0833201749	some people think
+0.0829472394	to learn
+0.0828925495	emission of
+0.0819316805	instead of
+0.0814165960	different types of
+0.0809159003	to ensure
+0.0805170780	the same
+0.0796427929	the truth
+0.0795219079	other countries
+0.0795147053	a child
+0.0794733310	advantage of
+0.0793327806	desire to
+0.0791693138	a matter of
+0.0784545113	the zoo
+0.0782182306	easy to
+0.0779843096	listening to people
+0.0774840595	the juries
+0.0770429699	to protect
+0.0769078135	a variety of
+0.0767411481	a meal
+0.0766695931	in today's
+0.0760192750	in favor of
+0.0758112745	own country
+0.0756459540	want to
+0.0756427929	the stadium
+0.0750858196	a new place
+0.0750335126	don't like
+0.0749309663	likely to
+0.0747042344	by means of
+0.0744751660	a good
+0.0743569878	become more and more
+0.0743257713	activities like
+0.0740321080	the internet
+0.0738609537	the past
+0.0737463937	the government
+0.0734445119	the development of
+0.0726542433	in order
+0.0725368014	by doing things
+0.0723904573	for several reasons
+0.0715036721	and so on
+0.0709557382	majority of people
+0.0705637602	long time
+0.0704131042	better than
+0.0703647445	interested in
+0.0702692606	contribute to
+0.0694032746	pressure on
+0.0686743085	a roommate
+0.0686568834	more efficient
+0.0678038056	land for
+0.0677708123	other aspects
+0.0676696765	centre of
+0.0674110832	many advantages
+0.0671467561	the streets
+0.0670628711	civilization of
+0.0668350109	on tv or
+0.0665830649	in front of
+0.0664004891	new things
+0.0659186907	a teacher
+0.0659128711	shortage of
+0.0650065444	a part time job
+0.0647642997	new country
+0.0646603350	new language
+0.0642644299	the pace of
+0.0640842046	a great
+0.0639409028	to manage
+0.0637879408	a friend
+0.0637625648	a mistake
+0.0636940882	this topic
+0.0635640413	result in
+0.0629689169	prefer to work
+0.0628308777	doing things
+0.0621442302	number of people
+0.0620194428	some people
+0.0620159420	a large
+0.0615812535	to make sure
+0.0615712770	participate in
+0.0615651732	first of
+0.0614519770	very well
+0.0610641832	impacts on
+0.0608375826	save time
+0.0604811740	whether or not
+0.0600591140	many countries
+0.0600366685	successful people
+0.0599712770	forms of
+0.0599522650	concept of
+0.0597868744	the main
+0.0597065280	as well
+0.0596018676	standard of
+0.0593912065	the fact
+0.0589989919	the gap between
+0.0589949764	to preserve
+0.0588150708	human needs for
+0.0587304366	young people to
+0.0586104998	the above reasons
+0.0577970412	some people believe
+0.0577878241	working in
+0.0576796234	the best
+0.0576325172	chance to
+0.0571522503	students to take
+0.0570650708	lot of people
+0.0569473646	this idea
+0.0568726841	an important role in
+0.0567796256	these problems
+0.0562092369	taken into
+0.0560576181	a sense of
+0.0558726557	a small
+0.0557521627	essential for
+0.0557419200	willing to
+0.0553790888	this means
+0.0551747253	similar to
+0.0551522076	the morning
+0.0549495787	to build
+0.0546589599	much more
+0.0541390949	the city
+0.0538047037	want to learn
+0.0537431237	the local
+0.0536195024	the society
+0.0535316388	the use of
+0.0532267769	a job
+0.0527642997	new environment
+0.0525113053	a bus
+0.0524583507	a positive
+0.0517716402	budget on
+0.0517147609	a big
+0.0517001396	this problem
+0.0514489679	a lot of time
+0.0510692766	a great amount of
+0.0510589513	the idea
+0.0510235734	the contrary
+0.0510090598	a chance to
+0.0507512165	this world
+0.0505980831	not deny
+0.0505517300	need to
+0.0505278689	many people
+0.0505235056	optional for
+0.0503314801	to work hard
+0.0502945055	beneficial to
+0.0502452605	in fact
+0.0501597528	as soon as
+0.0500279624	learning by
+0.0498113844	relationship with
+0.0497816972	the statement
+0.0497126787	many benefits
+0.0496948012	to go to
+0.0493539706	effects on
+0.0492678223	the opposite
+0.0491000592	the opportunity to
+0.0490873776	hobbies and
+0.0485688602	the same way
+0.0482221567	to control
+0.0482172076	more chance to
+0.0479014676	not afford
+0.0477218345	all over
+0.0473574232	prepare for
+0.0472712982	this generation
+0.0471392997	new friends
+0.0471089086	many subjects
+0.0468170173	among friends
+0.0464612574	studying in
+0.0463448012	the advantages of
+0.0462474937	the new country
+0.0460362578	many aspects
+0.0460237946	progress in
+0.0460014882	do not need
+0.0459588519	knowledge about
+0.0455029219	the rate of
+0.0455008302	going to
+0.0454448012	the issue of
+0.0453982666	money on
+0.0451804901	to prepare
+0.0451480542	the countryside
+0.0449575102	some students
+0.0449379649	work hard
+0.0449262545	great amount of
+0.0448847771	looking for
+0.0447809413	a project
+0.0447704316	the first and foremost reason
+0.0446776489	to solve
+0.0446776489	a healthy
+0.0446695886	the process of
+0.0445109823	to reduce
+0.0442977811	a good health
+0.0439800655	the environment
+0.0439733753	a restaurant
+0.0438913555	more comfortable
+0.0436776489	to spend
+0.0436636914	to make
+0.0435151935	the popularity of
+0.0433793453	many things
+0.0432852734	a greater
+0.0432627841	a tremendous
+0.0431960209	than ever
+0.0429890027	an effective
+0.0426290742	investing in
+0.0424104803	of course
+0.0424025648	an early
+0.0423448012	the way to
+0.0422267457	the same time
+0.0419463973	characteristics of
+0.0419463973	preparation of
+0.0418778528	a better place
+0.0418743785	violence in
+0.0415046005	to find
+0.0414681217	enough time
+0.0413557812	a product
+0.0413417217	to do
+0.0413323622	plan for
+0.0413000551	to get
+0.0411790818	the final
+0.0410068849	make sure
+0.0407421226	the number of
+0.0405151935	the introduction of
+0.0404556128	quality of
+0.0403666529	movies or
+0.0403227506	the jury
+0.0403000551	a better
+0.0402674465	a key
+0.0401650032	better education
+0.0401646886	above reasons
+0.0400948012	the ability to
+0.0399360710	this trend
+0.0398980542	in turn
+0.0397467078	more advanced
+0.0396776489	to achieve
+0.0394831476	in touch
+0.0394442315	by reading
+0.0393222814	more likely to
+0.0392541676	a new environment
+0.0390306012	famous people
+0.0388864679	to pay for
+0.0387967075	success in
+0.0387710638	the way of
+0.0387194500	an issue
+0.0386776489	to create
+0.0385486711	to earn more
+0.0384841710	some countries
+0.0384203012	people choose to
+0.0382674654	by using
+0.0381915742	pay for
+0.0380578458	the centre
+0.0379424857	more convenient
+0.0379140330	to survive in
+0.0378473676	the university
+0.0377370131	become more
+0.0377075562	of humanity
+0.0376538981	libraries and
+0.0375039656	to promote
+0.0371479167	than before
+0.0371396873	to choose
+0.0371354829	sense of
+0.0369063152	to live in
+0.0368832933	to deal with
+0.0368735268	by listening to
+0.0367198012	the right to
+0.0366364364	spend time
+0.0366269393	other sources
+0.0366104238	to use
+0.0364632089	life in
+0.0364155494	the public
+0.0363307280	a group
+0.0361632548	male and
+0.0361523939	good thing
+0.0361082913	take care
+0.0360551827	much time
+0.0359730369	very important to
+0.0359295214	a good way
+0.0359249625	more expensive
+0.0358661238	important for
+0.0357920009	opportunities for
+0.0356538981	earn more
+0.0355837975	tool to
+0.0355127557	level of
+0.0354699274	other things
+0.0353961363	to maintain
+0.0353248167	just like
+0.0350520834	good at
+0.0350520834	think about
+0.0350499599	the best way to
+0.0350333195	working at
+0.0349688104	examples to
+0.0349333195	learn from
+0.0348953779	if someone
+0.0348004469	or not
+0.0347422676	this kind of
+0.0344539448	to prevent
+0.0344163717	an important
+0.0343960131	friends and
+0.0343718431	of life
+0.0343544714	the most
+0.0342893888	new place
+0.0342709231	an essential
+0.0342540742	smoking in
+0.0341901259	to improve
+0.0341790424	the field of
+0.0339779793	a criminal
+0.0339290424	the age of
+0.0339290424	more money on
+0.0339132548	status of
+0.0338816496	of extinction
+0.0337986262	still need
+0.0336166266	the purpose of
+0.0335847854	these two
+0.0335125461	a company
+0.0334783055	a better life
+0.0334496446	the youth
+0.0334486431	to make students
+0.0334157739	no one
+0.0333597767	the part time job
+0.0332594113	this field
+0.0332059255	threat to
+0.0331790424	a foreign language in
+0.0331127557	hard to
+0.0330004641	eager to
+0.0329457322	go to
+0.0329083795	in school
+0.0328723499	a huge
+0.0327734339	the earth
+0.0326655494	a country
+0.0326517457	with other people
+0.0325753568	the chance of
+0.0325127557	increase in
+0.0324359858	a very important
+0.0324118927	one day
+0.0323559872	first and foremost reason
+0.0323490171	for human's
+0.0323487692	studying at
+0.0321877759	to distinguish
+0.0321632548	popularity of
+0.0321222243	this type of
+0.0321166266	a number of
+0.0320969227	necessary for
+0.0320067551	know about
+0.0319975718	the current
+0.0319679433	one thing
+0.0319290424	to live with
+0.0318851707	gain more
+0.0317572001	development of
+0.0316878768	an international
+0.0316173659	to pay
+0.0315714661	to pursue
+0.0315091967	feel more
+0.0314428587	the professor
+0.0313858211	different countries
+0.0312540742	advantages of
+0.0311487041	learning with
+0.0311166266	the majority of
+0.0310156561	and more convenient
+0.0310127305	the amount of
+0.0309290424	the benefit of
+0.0309024613	aid to
+0.0305400434	this way
+0.0303881771	to study and
+0.0303457091	to work for
+0.0303361159	a student
+0.0303039699	the welfare
+0.0301790424	of violence in
+0.0301524613	faster and
+0.0298479506	to stay
+0.0297557861	a lot of people
+0.0297408895	to worry
+0.0297408895	to carry
+0.0296632088	the campus
+0.0296436444	many ways
+0.0295784924	addicted to
+0.0295324676	other people
+0.0295234339	the budget
+0.0294517657	or movies
+0.0294299514	understanding of
+0.0293783385	goods and
+0.0293034354	period of
+0.0293011254	a friendship
+0.0292492844	a short time
+0.0292207739	a result of
+0.0291799514	contribution to
+0.0291790424	to work in
+0.0291166266	the quality of
+0.0290333195	learn more
+0.0290197421	less than
+0.0289552521	to discuss
+0.0289394109	one or two
+0.0288892632	learning about
+0.0288827181	time job
+0.0288673659	a team
+0.0288299514	hard for
+0.0288171666	many times
+0.0287624329	the art
+0.0287599769	a certain
+0.0287556708	a peaceful
+0.0285801536	to overcome
+0.0285799514	aspect of
+0.0285548437	a job in
+0.0285548437	the government to
+0.0285040742	field of
+0.0284299514	form of
+0.0284299514	place for
+0.0283635780	more effective
+0.0281790424	to study in
+0.0281684324	good person
+0.0281173659	a higher
+0.0280132848	feeling of
+0.0279041683	the project
+0.0278961381	to take
+0.0278694589	ways of
+0.0278300866	more than
+0.0278299514	successful in
+0.0277104964	different reasons
+0.0276487041	important as
+0.0276483892	the entire
+0.0276344969	beneficial for
+0.0275767904	in many countries
+0.0275750461	a university
+0.0275750461	to live
+0.0275632089	money to
+0.0274923659	a place
+0.0274301207	this ability
+0.0274129890	many kinds of
+0.0273540742	history of
+0.0273404041	of time in
+0.0271996965	the agriculture
+0.0271721449	by email
+0.0271524613	athletes and
+0.0270177521	the country
+0.0270107228	listening to
+0.0269694589	things by
+0.0269552521	the exam
+0.0269465055	to study
+0.0269313540	the future
+0.0269290424	to gain more
+0.0268081536	the whole
+0.0267832933	the improvement of
+0.0267606368	some advantages
+0.0266919644	any other
+0.0266697277	from home
+0.0266313583	even if
+0.0265650559	to avoid
+0.0264923659	to teach
+0.0264790742	freedom of
+0.0263457933	people tend to
+0.0263093915	do not want
+0.0262640363	to keep
+0.0261790424	to spend money on
+0.0261396173	a man
+0.0261344969	basis of
+0.0261344969	loss of
+0.0261115959	group of
+0.0260944589	important to
+0.0260520539	activities such as
+0.0260234988	new technology
+0.0260177521	in person
+0.0258863246	do well
+0.0258299514	choice for
+0.0258299514	aspects of
+0.0257944479	state of
+0.0257674874	and disadvantages of
+0.0257059255	sides of
+0.0256682812	made life
+0.0256040742	ability of
+0.0255573504	to guide
+0.0255470389	less time
+0.0255274613	price of
+0.0255274613	favor of
+0.0255178459	museums and
+0.0255178459	problem in
+0.0254151536	to achieve more
+0.0253924263	the history of
+0.0253667936	this situation
+0.0253540742	power of
+0.0251790424	a group of
+0.0251790424	the freedom to
+0.0251540656	try to
+0.0250957091	time to do
+0.0248668900	to reach
+0.0248299514	responsibility for
+0.0247919967	the unemployed
+0.0247418900	the class
+0.0247177921	more popular
+0.0246793900	the economy
+0.0246504999	good idea
+0.0245540424	the chance to
+0.0245540424	the level of
+0.0245264417	a wide
+0.0245190497	the role of
+0.0244783385	succeed in
+0.0244357163	the key to
+0.0243801919	to study at
+0.0243540742	research on
+0.0243480324	in danger
+0.0243457091	more time on
+0.0242737041	knowledge on
+0.0242724478	of globalization
+0.0242724478	to read
+0.0242724478	a crime
+0.0242211658	the company
+0.0241996965	a city
+0.0241972408	and examples
+0.0240106368	this point
+0.0239976341	an increasing
+0.0239610937	people prefer to
+0.0239299514	habit of
+0.0239186285	this view
+0.0238456365	the concept
+0.0238299514	vital for
+0.0237044093	to write
+0.0236651536	the idea of
+0.0236583195	money from
+0.0236091967	problems such as
+0.0235548437	a person to
+0.0234783385	developments in
+0.0234299514	method of
+0.0233565627	best way of
+0.0233504890	the cost of
+0.0233147748	to participate in
+0.0230553271	time watching
+0.0230453360	money for
+0.0230409548	to learn and
+0.0229790742	live with
+0.0229783385	independent and
+0.0229508678	to communicate with
+0.0229508678	to focus on
+0.0229384470	by doing
+0.0229298437	the government and
+0.0229290436	as soon
+0.0229193582	the part time
+0.0229024613	responsibility to
+0.0228833349	the product
+0.0228833349	the air
+0.0228517385	to buy
+0.0228299046	to fund
+0.0228060914	a problem
+0.0227622767	a few
+0.0227428592	not to say
+0.0226857163	to start with
+0.0226799514	continue to
+0.0226227221	other activities
+0.0226227221	much money
+0.0226177834	to behave
+0.0226091967	information from
+0.0226040742	punishment for
+0.0224323839	seem to
+0.0224299514	opportunity to
+0.0223943009	the time
+0.0222737041	study at
+0.0222737041	provide more
+0.0222282188	to establish
+0.0222255752	this job
+0.0222249263	to cooperate
+0.0222166683	the awareness
+0.0221168900	to attend
+0.0221168900	the community
+0.0221115959	language in
+0.0220796287	of art
+0.0220283361	best way
+0.0219508678	a way to
+0.0219508678	more efficient and
+0.0219503325	the economic
+0.0219299514	reason for
+0.0219011921	the popularity
+0.0218546710	the destination
+0.0218408507	to support
+0.0218067792	very good
+0.0218060914	to develop
+0.0217678459	factor in
+0.0216651536	more money to
+0.0215274613	care of
+0.0215274613	rate of
+0.0215274613	chance of
+0.0214783385	risk of
+0.0214494520	good people
+0.0213985541	able to get
+0.0213266691	in addition to
+0.0213062839	to finish
+0.0212836658	a social
+0.0212543126	turn to
+0.0212376555	as possible
+0.0211434869	for farmland
+0.0211428459	method to
+0.0211168900	a high
+0.0210482509	to mention
+0.0210473083	such as education
+0.0209863344	a successful
+0.0209508678	the lack of
+0.0209299514	local people
+0.0209299514	attention on
+0.0209299514	travel to
+0.0209299514	easier for
+0.0209299514	ability to
+0.0209299514	purpose of
+0.0209299514	face with
+0.0209299514	convenience of
+0.0209299514	efficiency of
+0.0208922419	good students
+0.0208922419	more money
+0.0207982509	to tackle
+0.0207618805	a word
+0.0207428592	not easy to
+0.0207418900	the potential
+0.0207365959	means of
+0.0207081981	all around
+0.0206857163	a waste of
+0.0206682812	of energy
+0.0206682812	a foreign
+0.0206682812	to gain
+0.0206616613	from different
+0.0206533837	appear to
+0.0205803722	many people think
+0.0205453360	working for
+0.0205096508	this age
+0.0204783385	stay in
+0.0202835567	to meet
+0.0202487973	the real
+0.0202345254	the country's
+0.0202345254	to perform
+0.0202166683	that subject
+0.0202166683	a college
+0.0202166683	in classroom
+0.0201471563	regard to
+0.0201159063	learn to
+0.0201159063	start to
+0.0200954997	so much
+0.0200937231	motivation to
+0.0200419231	some negative
+0.0200203808	to win
+0.0200009470	time on
+0.0199568130	to communicate
+0.0199508678	the value of
+0.0199503325	of teaching
+0.0199299514	spend more
+0.0199299514	spend on
+0.0199299514	living with
+0.0199299514	choice of
+0.0199246774	some kind of
+0.0198774158	of money
+0.0198320529	the violent
+0.0198320529	the crime
+0.0198320529	the importance
+0.0198158062	the atmosphere
+0.0197409063	hand in
+0.0197329191	a part of
+0.0196977872	to succeed
+0.0196977872	in sum
+0.0196874731	essential to
+0.0196874731	free to
+0.0196465098	different from
+0.0195970981	a new
+0.0195599018	take into
+0.0195453360	choose to
+0.0194933358	to agree with
+0.0194783385	talk to
+0.0194783385	importance to
+0.0194783385	improvement of
+0.0194783385	proper and
+0.0194730335	survive in
+0.0194730335	start with
+0.0193572746	the culture
+0.0193413440	to spend more
+0.0193349478	a global
+0.0193186839	want to make
+0.0192659138	not only for
+0.0192139750	at university
+0.0191417435	full of
+0.0191390860	experience for
+0.0191175345	new things and
+0.0191175345	more and more people
+0.0190937231	benefit of
+0.0190502557	to appreciate
+0.0190419231	a good relationship
+0.0189887271	to handle
+0.0189879096	a bad
+0.0189299514	waste of
+0.0189246464	important than
+0.0188774158	of technology
+0.0188675345	the price of
+0.0188675345	to talk to
+0.0188051132	the freedom
+0.0187766059	in comparison
+0.0187322746	to provide
+0.0187169879	more common
+0.0187099478	a specific
+0.0186931428	some other
+0.0186465098	or even
+0.0185789759	part time
+0.0185453360	essential in
+0.0185453360	agree to
+0.0185453360	free of
+0.0184783385	case of
+0.0184783385	decide to
+0.0184783385	importance of
+0.0184783385	effort to
+0.0184783385	attention to
+0.0184783385	cost of
+0.0184783385	order to
+0.0184340858	to accept
+0.0184306155	to play
+0.0184258029	of competition
+0.0183613344	the end
+0.0183360390	of famous people
+0.0183181428	work at
+0.0183051053	this opinion
+0.0182835567	to travel
+0.0182672419	on television
+0.0182387271	the obstacles
+0.0181539163	use of
+0.0181417435	part in
+0.0181390860	person with
+0.0181175345	for everyone to
+0.0181175345	the end of
+0.0181175345	to prepare for
+0.0181168900	of communication
+0.0180937231	process of
+0.0180937231	age of
+0.0180937231	point of
+0.0180937231	change of
+0.0180937231	idea of
+0.0179912114	people living in
+0.0179879096	a personal
+0.0179788571	other than
+0.0179586633	the latest
+0.0179299514	disadvantages of
+0.0179080465	more essential
+0.0178833349	to focus
+0.0178833349	to talk
+0.0178283280	not just
+0.0178237906	more time
+0.0178052979	to adapt
+0.0178052979	a proper
+0.0176874731	easier and
+0.0176874731	difficult to
+0.0175809674	good environment
+0.0175809674	these things
+0.0174783385	crucial to
+0.0174783385	points of
+0.0174783385	result of
+0.0174746710	the first
+0.0174181767	most important
+0.0174043221	this example
+0.0173758268	not able to
+0.0173507524	a nation
+0.0173507524	a major
+0.0173309674	do not agree
+0.0173163030	no time
+0.0171580465	more important
+0.0171390860	study in
+0.0170937231	role of
+0.0170937231	efficient and
+0.0170937231	responsibility of
+0.0170924695	the field
+0.0170667835	freedom to
+0.0170667835	matter of
+0.0170667835	study from
+0.0170667835	issue of
+0.0168833349	of violence
+0.0168833349	the population
+0.0168283280	even more
+0.0167648496	back to
+0.0167182947	to make people
+0.0167099478	a reasonable
+0.0167099478	a subject
+0.0166885393	with others
+0.0165440825	of information
+0.0164987195	the history
+0.0164987195	the responsibility
+0.0164978113	to relax
+0.0164969795	to help
+0.0164838311	to try
+0.0164427342	the new
+0.0164340858	to understand
+0.0164306155	to enjoy
+0.0164306155	a significant
+0.0163507524	to clean
+0.0163051053	this experience
+0.0162927060	made by
+0.0162583349	the office
+0.0162583349	the game
+0.0162345254	to send
+0.0162345254	to attract
+0.0161455238	still believe
+0.0161445454	in here
+0.0161219795	to work
+0.0160924695	to feel
+0.0160667835	end of
+0.0159503325	for success
+0.0158833349	the issue
+0.0158833349	the classroom
+0.0158833349	the advanced
+0.0158766145	more attention
+0.0158766145	more opportunities
+0.0158273496	the way
+0.0158273496	the next
+0.0157648496	a computer
+0.0157240908	a whole
+0.0157099478	to visit
+0.0157099478	a case
+0.0157099478	a competitive
+0.0157099478	a real
+0.0156164434	available for
+0.0156007524	the basic
+0.0156007524	to face
+0.0156007524	to encourage
+0.0155809674	some money
+0.0155065949	to know
+0.0154717799	the adult
+0.0152583349	a short
+0.0152282188	more negative
+0.0152023496	the last
+0.0152023496	way to
+0.0152023496	way of
+0.0151491395	the case
+0.0151491395	the argument
+0.0150820454	for everyone
+0.0150482615	people around
+0.0150329253	work for
+0.0150236733	on tv
+0.0149371981	trying to
+0.0148955238	others think
+0.0148766145	a low
+0.0148766145	to pass
+0.0148766145	a potential
+0.0148737195	the individual
+0.0148737195	the cultural
+0.0148737195	the present
+0.0148737195	the young
+0.0148737195	to contribute
+0.0148467799	the price
+0.0148177342	the second
+0.0147982615	useful for
+0.0147736733	to continue
+0.0147478113	to complete
+0.0147478113	a strong
+0.0147182947	the world in
+0.0147029186	more easily
+0.0146929325	the course
+0.0146929325	and again
+0.0146413377	and then
+0.0146007524	in college
+0.0146007524	to leave
+0.0146007524	to start
+0.0144674695	the pace
+0.0144674695	the chance
+0.0144674695	the quality
+0.0144674695	the traditional
+0.0144308929	top of
+0.0144250016	the tourist
+0.0144250016	the police
+0.0144250016	to concentrate
+0.0144250016	to produce
+0.0143917435	a particular
+0.0143881846	far more
+0.0143815842	the fundamental
+0.0143815842	to apply
+0.0143815842	to drive
+0.0143815842	to explain
+0.0143546584	not want to
+0.0143536800	time to
+0.0143083145	all know
+0.0142961984	the tax
+0.0142724779	a co
+0.0142026666	any time
+0.0142023496	to give
+0.0141491395	the major
+0.0141445454	a day
+0.0141206425	more likely
+0.0140482615	good for
+0.0140422726	to move
+0.0140403862	the basis
+0.0140236733	to acquire
+0.0140236733	to decide
+0.0140236733	a single
+0.0140236733	to realize
+0.0140236733	to follow
+0.0139020671	and well
+0.0138766145	to save
+0.0138766145	to offer
+0.0138766145	to change
+0.0138766145	a common
+0.0138766145	to watch
+0.0138766145	a vital
+0.0138766145	a longer
+0.0138766145	a daily
+0.0138766145	a crucial
+0.0136862120	this further
+0.0135720604	to share
+0.0135720604	to gather
+0.0135720604	to invest
+0.0135720604	a question
+0.0135720604	the key
+0.0135720604	the primary
+0.0135720604	the rapid
+0.0135720604	to obtain
+0.0135720604	to serve
+0.0135720604	to survive
+0.0135720604	to grow
+0.0135700028	not possible
+0.0135700028	seen as
+0.0135195454	a serious
+0.0134919991	to agree
+0.0134919991	to increase
+0.0134250016	the question
+0.0134250016	the effect
+0.0134250016	the global
+0.0134250016	the nation
+0.0134250016	the phone
+0.0134250016	to set
+0.0134196966	in favor
+0.0134114842	and therefore
+0.0134114842	and also
+0.0133690163	the right
+0.0133690163	to show
+0.0133536800	time with
+0.0133220604	a number
+0.0131874450	the preservation
+0.0131874450	the death
+0.0130482615	time for
+0.0130482615	to become
+0.0130403862	the poor
+0.0130403862	the early
+0.0130403862	the ability
+0.0130403862	the recent
+0.0130403862	of crime
+0.0130364842	the other
+0.0130236733	a negative
+0.0130236733	a change
+0.0130236733	a chance
+0.0130236733	a long
+0.0130236733	more chance
+0.0130236733	other hand
+0.0130236733	to express
+0.0130236733	in children's
+0.0130134466	the planet
+0.0128907575	move to
+0.0128141753	some time
+0.0127286800	not like
+0.0127286800	to think
+0.0127286800	like to
+0.0126862120	to put
+0.0126390579	in mind
+0.0126341362	the modern
+0.0126341362	the famous
+0.0126341362	to bring
+0.0126341362	and finally
+0.0125720604	the situation
+0.0125720604	the nature
+0.0125720604	to earn
+0.0125720604	the distance
+0.0125720604	the condition
+0.0125720604	to respect
+0.0125720604	to deal
+0.0125667554	to plan
+0.0124391753	work on
+0.0124362120	ask for
+0.0124079253	not so
+0.0123690163	especially in
+0.0123690163	to say
+0.0123654573	good way
+0.0123654573	used by
+0.0123654573	because most
+0.0123654573	others believe
+0.0123654573	get more
+0.0123654573	than just
+0.0123654573	more often
+0.0123654573	much better
+0.0123654573	right from
+0.0123654573	or just
+0.0121874450	the educational
+0.0121874450	the area
+0.0121874450	the fast
+0.0121874450	the younger
+0.0121874450	the salary
+0.0121605054	of unemployment
+0.0121445454	to go
+0.0120329253	but not
+0.0119808419	also make
+0.0119808419	help from
+0.0119808419	not always
+0.0119808419	more about
+0.0119808419	only on
+0.0118953466	and even
+0.0117811950	the convenience
+0.0117811950	the natural
+0.0117811950	the opportunity
+0.0117286800	work in
+0.0116862120	to ask
+0.0116862120	better way
+0.0116862120	such as going
+0.0116862120	especially for
+0.0116862120	necessary to
+0.0116862120	well with
+0.0116862120	to consider
+0.0116862120	cause of
+0.0116862120	a course
+0.0116862120	need for
+0.0116862120	possible for
+0.0116862120	not necessary
+0.0113015966	way for
+0.0113015966	these new
+0.0113015966	out of
+0.0113015966	or two
+0.0113015966	to see
+0.0112770671	and sometimes
+0.0112345991	the third
+0.0112345991	the co
+0.0112345991	value of
+0.0112345991	to look
+0.0112345991	side of
+0.0111605054	the rate
+0.0109020671	right to
+0.0108953466	help to
+0.0108953466	only because
+0.0108953466	to believe
+0.0108499837	the above
+0.0108499837	to come
+0.0108499837	in almost
+0.0108499837	possible to
+0.0104437337	the following
+0.0104437337	together in
+0.0104437337	and thus
+0.0104437337	and so
+0.0102746570	do so
