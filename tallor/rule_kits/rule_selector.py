@@ -45,8 +45,8 @@ class RuleSelector:
             selected_rules.append(defaultdict(list))
             for rule_name, instances in tqdm(new_rule.items(), ncols=100):
                 instance_set = set(instances)
-                s = [0]*len(repr_dict.keys())
-                c = [0]*len(repr_dict.keys())
+                s = [0]*self.ner_label.get_num()
+                c = [0]*self.ner_label.get_num()
                 for label, label_set in repr_dict.items():
                     Fi = len(instance_set & label_set)+1e-10
                     Ni = len(instance_set)+1e-10
