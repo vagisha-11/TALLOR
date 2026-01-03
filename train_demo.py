@@ -25,7 +25,7 @@ def main():
             help='dataset')
 
     ## span
-    parser.add_argument('--max_span_width', default=5, type=int,
+    parser.add_argument('--max_span_width', default=100, type=int,
             help='max number of word in a span')
     
 
