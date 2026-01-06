@@ -106,7 +106,7 @@ class IEFramework:
             {'params': [p for n, p in parameters_to_optimize
                 if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
             ]
-        optimizer = AdamW(parameters_to_optimize, lr=2e-5, correct_bias=False)
+        optimizer = AdamW(parameters_to_optimize, lr=2e-5)
         scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=warmup_step, num_training_steps=train_iter) 
         
         for it in tqdm(range(train_iter), ncols=100, total=train_iter, desc='Train NER model.'):
