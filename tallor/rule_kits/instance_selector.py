@@ -106,6 +106,10 @@ class InstanceSelector:
 
         for label, instance_set in high_precision_instances.items():
 
+            if len(instance_set) == 0:
+                self.threshold_dict[label] = 0.0 # Or some default value, but loop won't run so we need to set something or continue
+                continue
+
             sampled_instances = random.choices(list(instance_set), k=self.threshold_sample_times)
 
             scores = []
@@ -129,6 +133,9 @@ class InstanceSelector:
         scores = []
 
         for i in range(self.global_sample_times):
+
+            if len(high_pre_set) == 0:
+                return 0.0
 
             sampled_instances = random.choices(list(high_pre_set), k=3)
             
